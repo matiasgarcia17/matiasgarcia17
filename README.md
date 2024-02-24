@@ -11,15 +11,15 @@ https://www.tiktok.com/@matigarcia.17_12?_t=8k0IIZ8SoQn&_r=1
 
 ## Features
 
-- creatividad
-- una persona alegre
-- una persona respetuosa
-- alguien que le gusta mucho el Futbol
+- Soy una persona creativa
+- Soy una persona alegre
+- Soy una persona respetuosa
+- Soy alguien que le gusta mucho el Futbol y la tecnologia
 
 
 ## 🚀 About Me
-Soy un est. de ingenieria en sistemas en la UCB. apasionado por el futbol y un emprendedor de la empresa The Orange Machine Company
-
+Soy un est. de ingenieria en sistemas en la UCB. Un emprendedor de la empresa The Orange Machine Company
+apasionado por el futbol y con el sueño de ser un gran ingeniero en sistemas y lograr muchos exitos
 
 ## Badges
 lenguajes de programacion que utilizo
